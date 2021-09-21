@@ -26,6 +26,7 @@ public class Main {
         Scanner scank=new Scanner(System.in);
         double a=scank.nextDouble();
         double b=scank.nextDouble();
+        System.out.println("Zmena");
     }
 }
 
